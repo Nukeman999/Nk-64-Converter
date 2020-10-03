@@ -4,7 +4,7 @@ Welcome to the future of Nk Flash modding!
 
  ![NK64 Converter Logo](/NK64C.png)
 
-With Nk 64 Converter it's as easy as ever to create and modify the nk intro to ALL of the Ninjakiwi games!
+With Nk 64 Converter it's as easy as ever to create and modify the nk intro to ALL of the flash NinjaKiwi games!
 
 # How does it work?
 
