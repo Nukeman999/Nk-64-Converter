@@ -17,3 +17,15 @@ D:\Nk-64-Converter\NK64Converter\bin\netcoreapp3.1\NK64Converter.runtimeconfig.d
 D:\Nk-64-Converter\NK64Converter\bin\netcoreapp3.1\NK64Converter.dll
 D:\Nk-64-Converter\NK64Converter\bin\netcoreapp3.1\NK64Converter.pdb
 D:\Nk-64-Converter\NK64Converter\obj\Debug\netcoreapp3.1\NK64Converter.csproj.CoreCompileInputs.cache
+C:\Users\bow\Source\Repos\Nk-64-Converter\NK64Converter\bin\netcoreapp3.1\NK64Converter.exe
+C:\Users\bow\Source\Repos\Nk-64-Converter\NK64Converter\bin\netcoreapp3.1\NK64Converter.deps.json
+C:\Users\bow\Source\Repos\Nk-64-Converter\NK64Converter\bin\netcoreapp3.1\NK64Converter.runtimeconfig.json
+C:\Users\bow\Source\Repos\Nk-64-Converter\NK64Converter\bin\netcoreapp3.1\NK64Converter.runtimeconfig.dev.json
+C:\Users\bow\Source\Repos\Nk-64-Converter\NK64Converter\bin\netcoreapp3.1\NK64Converter.dll
+C:\Users\bow\Source\Repos\Nk-64-Converter\NK64Converter\bin\netcoreapp3.1\NK64Converter.pdb
+C:\Users\bow\Source\Repos\Nk-64-Converter\NK64Converter\obj\Debug\netcoreapp3.1\NK64Converter.csprojAssemblyReference.cache
+C:\Users\bow\Source\Repos\Nk-64-Converter\NK64Converter\obj\Debug\netcoreapp3.1\NK64Converter.AssemblyInfoInputs.cache
+C:\Users\bow\Source\Repos\Nk-64-Converter\NK64Converter\obj\Debug\netcoreapp3.1\NK64Converter.AssemblyInfo.cs
+C:\Users\bow\Source\Repos\Nk-64-Converter\NK64Converter\obj\Debug\netcoreapp3.1\NK64Converter.dll
+C:\Users\bow\Source\Repos\Nk-64-Converter\NK64Converter\obj\Debug\netcoreapp3.1\NK64Converter.pdb
+C:\Users\bow\Source\Repos\Nk-64-Converter\NK64Converter\obj\Debug\netcoreapp3.1\NK64Converter.genruntimeconfig.cache
