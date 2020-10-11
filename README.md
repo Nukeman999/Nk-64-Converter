@@ -10,3 +10,4 @@ With Nk 64 Converter it's as easy as ever to create and modify the nk intro to A
 
 With the new api Nk 64 converter can convert from an Encrypted Stream to SWF and vice versa like a breeze, like a cakewalk, like a... you get the idea!
 
+This is my first tool and collaboration with other brilliant minds in the btd modding scene so enjoy!
