@@ -11,3 +11,4 @@ NK64Converter/obj/NK64Converter.csproj.nuget.g.props
 NK64Converter/obj/NK64Converter.csproj.nuget.g.targets
 NK64Converter/obj/NK64Converter.csproj.nuget.dgspec.json
 NK64Converter/bin/netcoreapp3.1/NK64Converter.runtimeconfig.dev.json
+NK64Converter/.vs/NK64Converter/DesignTimeBuild/.dtbcache.v2
